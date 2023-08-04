@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "67Z0O1YNtgQshDQzLoSCjHptRDh0qfDxEDY8mc2r5ps=",
+  "Source": "TheBlogEngine.API",
+  "BasePath": "_content/TheBlogEngine.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
